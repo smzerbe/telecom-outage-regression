@@ -37,7 +37,7 @@ A full data cleaning and preprocessing pipeline was implemented to prepare the d
 
 ## How to Use
 
-You can view the `.ipynb` file directly on GitHub or download the `.html` version for a no-setup preview.  
+You can view the `.ipynb` file directly on GitHub or in nbviewer.  
 Raw and cleaned datasets are provided for reproducibility.
 
 [View notebook on nbviewer](https://nbviewer.org/github/smzerbe/telecom-outage-regression/blob/main/Telecom-Outage-Regression.ipynb)
