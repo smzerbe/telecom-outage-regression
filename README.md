@@ -30,7 +30,6 @@ A full data cleaning and preprocessing pipeline was implemented to prepare the d
 | File | Description |
 |------|-------------|
 | `Telecom-Outage-Regression.ipynb` | Main notebook with analysis, data cleaning, and regression modeling |
-| `Telecom-Outage-Regression.html` | HTML version of the notebook for easy viewing |
 | `churn_raw_data.csv` | Raw dataset used prior to cleaning |
 | `telecom-outage-regression_clean_dataset.csv` | Cleaned dataset used as model input |
 
